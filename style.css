@@ -1,0 +1,31 @@
+body{
+    background-color: cyan;
+}
+.Headline{
+    display: flex;
+    justify-content: center;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10pc;
+    margin-top: 1pc;
+}
+
+.bild{
+   margin: 1pc;
+   display: flex;
+   
+}
+
+.text{
+    margin: 1pc;
+}
+
+.submit{
+    margin-top: 2pc
+}
+
+.Name{
+    margin-bottom: 6pc;
+}
